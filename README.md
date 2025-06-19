@@ -1,19 +1,19 @@
-# Soluções do Project Euler
+# Project Euler Solutions
 
-## 1. Introdução ao Project Euler
-O **Project Euler** é uma plataforma online de desafios matemáticos e de programação que vão do nível iniciante ao avançado. Cada problema exige não só conhecimentos de matemática pura, mas também habilidades de codificação e otimização de algoritmos.  
-- **Objetivo:** Estimular o raciocínio lógico e a criatividade na resolução de problemas.  
-- **Público-alvo:** Estudantes, entusiastas de programação, profissionais de TI e qualquer pessoa interessada em matemática aplicada.
+## 1. Introduction to Project Euler
+**Project Euler** is an online platform for mathematical and programming challenges ranging from beginner to advanced levels. Each problem requires not only knowledge of pure mathematics, but also coding and algorithm optimization skills.  
+- **Objective:** To stimulate logical reasoning and creativity in problem-solving.
+- **Target audience:** Students, programming enthusiasts, IT professionals, and anyone interested in applied mathematics.
 
-## 2. Meus Objetivos e Metodologia
-### 2.1 Por que resolvo problemas do Project Euler
-- Desenvolvimento do **raciocínio lógico** e da capacidade de transformar ideias matemáticas em código eficiente.
-- Aprofundamento em conceitos de **matemática discreta** e **análise de algoritmos**.
-- Prática de **otimização de performance** e **uso de estruturas de dados** adequadas.
+## 2. My Goals and Methodology
+### 2.1 Why I solve Project Euler problems
+- Development of **logical reasoning** and the ability to transform mathematical ideas into efficient code.
+- Deepening of concepts of **discrete mathematics** and **algorithm analysis**.
+- Practice **performance optimization** and **use of appropriate data structures**.
 
-### 2.2 Ferramentas e Linguagens
-- **Linguagem:** C (padrão C99)  
-- **Compilador:** `gcc`  
+### 2.2 Tools and Languages
+- **Language:** C (C99 standard)
+- **Compiler:** `gcc`  
 
 
 
