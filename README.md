@@ -18,8 +18,8 @@
 
 
 
-## 3. Sumário das Soluções
-| Número | Título                              | Link                                |
+## 3. Solutions Summary
+| Number | Title                              | Link                                |
 | ------ | ----------------------------------- | ----------------------------------- |
 | 001    | Multiples of 3 or 5                 | [001-multiples-of-3-and-5](001-multiples-of-3-and-5)
 
